@@ -1,0 +1,26 @@
+.error {
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.login {
+    font-style: italic;
+}
+
+form label,.new_picture {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+}
+
+td.label {
+    font-weight: bold;
+}
+
+img.profile {
+    vertical-align: top;
+}
+
+#birthdate {
+    font-style:normal;
+}
